@@ -80,21 +80,3 @@ GitHub地址（https://github.com/hetutu5238/zmc_security_oauth2）
 ```text
 十有八九是打的jar包有问题，参考博客重新打包，SpringBoot系列——jar包与war包的部署：https://www.cnblogs.com/huanzi-qch/p/9948060.html
 ```
-
-## QQ群<br/>
-有事请加群，有问题进群大家一起交流！
-QQ群名：Java交流群-huanzi-qch
-QQ群号：1015379123
-![](https://huanzi-qch.gitee.io/file-server/images/qq.png) 
-<br/>注：如果图片加载不出来请点击查看[这里](https://huanzi-qch.gitee.io/file-server/images/qq.png)
-
-## 捐献<br/>
-请注意，作者五行缺钱，如果喜欢这个项目，请随意打赏！
-
-支付宝<br/>
-![](https://huanzi-qch.gitee.io/file-server/images/zhifubao.png) 
-<br/>注：如果图片加载不出来请点击查看[这里](https://huanzi-qch.gitee.io/file-server/images/zhifubao.png) 
-
-微信<br/>
-![](https://huanzi-qch.gitee.io/file-server/images/weixin.png) 
-<br/>注：如果图片加载不出来请点击查看[这里](https://huanzi-qch.gitee.io/file-server/images/weixin.png) 
