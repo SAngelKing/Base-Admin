@@ -9,9 +9,9 @@ java后端：SpringBoot + Thymeleaf + WebSocket + Spring Security + SpringData-J
 ## 运行效果图<br/> 
 ![](https://huanzi-qch.gitee.io/file-server/images/base-admin.png) 
 
-## 仓库地址<br/> 
-国外：https://github.com/huanzi-qch/base-admin<br/> 
-国内：https://gitee.com/huanzi-qch/base-admin<br/> 
+## 转载于<br/> 
+https://github.com/huanzi-qch/base-admin<br/> 
+
 
 ## 前往博客查看详情<br/> 
 具体介绍请看我的博客[《开源一套简单通用的后台管理系统》](https://www.cnblogs.com/huanzi-qch/p/11534203.html)<br/> 
